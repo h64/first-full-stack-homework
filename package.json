@@ -1,0 +1,19 @@
+{
+  "name": "first-full-stack-homework",
+  "version": "1.0.0",
+  "description": "A super large homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEIR-7-06/first-full-stack-homework.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEIR-7-06/first-full-stack-homework/issues"
+  },
+  "homepage": "https://github.com/SEIR-7-06/first-full-stack-homework#readme"
+}
